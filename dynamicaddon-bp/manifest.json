@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "dynamicaddon",
+    "description": "Add-on for customizing parties in minecraft bedrock.",
+    "uuid": "5fd52887-9323-4815-b303-28dc63a8a2a0",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 70]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "105cbd09-433c-4746-8a7b-71047561bb37",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": [ "DexstDev" ],
+    "generated_with": {
+      "blockception-minecraft-bedrock": [
+        "8.0.31"
+      ]
+    }
+  }
+}
